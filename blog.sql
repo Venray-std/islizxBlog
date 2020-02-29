@@ -209,7 +209,7 @@ CREATE TABLE `t_user` (
 # Data for table "t_user"
 #
 
-INSERT INTO `t_user` VALUES (2,'/images/islizx.jpg','islizx@163.com','RAYMOND','8bd6266de733d121f4f0fee649ab5357',b'0','admin','hello','127.0.0.1','2020-02-04 11:42:36','2020-02-27 21:58:25',b'0','2020-02-27 21:58:09','hello ');
+INSERT INTO `t_user` VALUES (2,'/images/islizx.jpg','islizx@163.com','RAYMOND','',b'0','admin','hello','127.0.0.1','2020-02-04 11:42:36','2020-02-27 21:58:25',b'0','2020-02-27 21:58:09','hello ');
 
 #
 # Structure for table "t_blog"
